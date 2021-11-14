@@ -16,5 +16,5 @@ spec:
   values:
     images:
       app: areshka515/goapp
-      app_tag: dev-5212
+      app_tag: dev-43f4
     replicaCount: 1
