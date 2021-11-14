@@ -1,3 +1,3 @@
 images:
-  app: 940900938199.dkr.ecr.eu-west-1.amazonaws.com/registersystem
-  tag: stg-189b6d
+  app: areshka515/goapp
+  tag: latest
